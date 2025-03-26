@@ -7,4 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "customtkinter>=5.2.2",
     "paramiko>=3.5.1",
+    "pyinstaller>=6.12.0",
 ]

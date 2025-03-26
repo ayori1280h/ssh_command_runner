@@ -1,0 +1,10 @@
+[
+    {
+      "command": "date",
+      "description": "パッケージリストの更新"
+    },
+    {
+      "command": "date",
+      "description": "パッケージのアップグレード"
+    }
+  ]

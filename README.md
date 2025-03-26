@@ -3,6 +3,9 @@
 ## 概要
 このアプリケーションは、シングルボードコンピュータ（SBC）やその他のリモートLinuxシステムに対して、
 SSH接続を介して一連のコマンドを自動実行するためのシンプルなGUIツールです。
+<p align="center">
+  <img src="assets/image.png" alt="App Demo" width="700">
+</p>
 
 ## 機能
 - SSHを使用したリモートシステムへの接続
